@@ -1,0 +1,18 @@
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun Dec 15 16:23:08 2024
+\t (00:00:02)         Host=DESKTOP-90BRTH7 User=Fierea Cosmin Pid=32792 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:05) trapsize 669
+\i (00:00:06) trapsize 684
+\i (00:00:06) trapsize 1138
+\i (00:00:06) trapsize 1142
+\i (00:00:06) etchedit 
+\i (00:00:09) open 
+\i (00:00:27) fillin "C:\Users\Fierea Cosmin\Desktop\P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD\Layout\P1.brd"
+\i (00:00:27) cd "C:\Users\Fierea Cosmin\Desktop\P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD\Layout"
+\t (00:00:27) Opening existing design...
+\i (00:00:27) trapsize 4279
+\t (00:00:27)     Journal end - Sun Dec 15 16:23:33 2024

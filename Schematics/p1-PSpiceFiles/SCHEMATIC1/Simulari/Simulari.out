@@ -1,0 +1,221 @@
+
+**** 11/21/24 20:50:00 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Simulari"  [ C:\Users\Fierea Cosmin\Desktop\P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD\Schematics\p1-ps
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Simulari.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Fierea Cosmin\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 3m 0 1u 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source P1
+Q_Q9         N79984 N79984 N80402 BC846B 
+V_V3         INP 0  AC 1
++SIN 0 0.9 1k 0 0 0
+R_R13         VO N79928  9.1k TC=0,0 
+R_R3         VO N79776  1 TC=0,0 
+R_R14         0 N79928  1k TC=0,0 
+R_R10         N80392 N80402  510 TC=0,0 
+R_R11         N80392 N80408  510 TC=0,0 
+R_R4         0 INP  180k TC=0,0 
+R_R5         N80168 VO  1 TC=0,0 
+R_R8         N802401 N801381  51 TC=0,0 
+Q_Q12         N80152 N79990 N80392 BC846B 
+Q_Q7         N79674 N79674 N79960 BC846B 
+Q_Q10         N79990 N79984 N80408 BC846B 
+X_D1         N796860 0 LED PARAMS: IS=5.6404e-029 RS=2  BV=5 IBV=5e-6         
+V_V1         N79492 0 12
+C_C1         N79990 N80152  10p  TC=0,0 
+R_R6         N801381 VO  51 TC=0,0 
+R_R9         0 N802401  51 TC=0,0 
+Q_Q4         N79492 N79674 N79776 BC846B 
+R_R1         N84634 N79492  330 TC=0,0 
+R_R7         N91465 N79610  10k TC=0,0 
+V_V2         N82267 0  
++PULSE 0 0.9 1ms 1n 1n 1ms 10ms
+C_C2         N828860 N82862  1G  TC=0,0 
+L_L1         N82862 0  1G  
+R_R2         N796860 N84634  330 TC=0,0 
+R_R16         N88786 N80392  330 TC=0,0 
+V_V6         0 N80392 12
+R_R17         N888061 N88786  330 TC=0,0 
+X_D3         0 N888061 LED PARAMS: IS=5.6404e-029 RS=2  BV=5 IBV=10e-6         
+R_R18         N80392 N91465  22k TC=0,0 
+Q_Q14         N79610 N79610 N99702 BC856B 
+Q_Q15         N79984 N79928 N79760 BC856B 
+Q_Q16         N80152 N80152 N79960 BC856B 
+Q_Q17         N80392 N80152 N80168 BC856B 
+Q_Q18         N79760 N79610 N99981 BC856B 
+Q_Q19         N79674 N79610 N922072 BC856B 
+Q_Q20         N79990 INP N79760 BC856B 
+V_V8         N828860 0 DC 0Vdc AC 1Vac 
+C_C3         N79990 N80152  10p  TC=0,0 
+C_C4         N79990 N80152  10p  TC=0,0 
+R_R19         N99702 N79492  100 TC=0,0 
+R_R20         N99981 N79492  100 TC=0,0 
+R_R21         N922072 N79492  100 TC=0,0 
+
+**** RESUMING Simulari.cir ****
+.END
+
+**** 11/21/24 20:50:00 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Simulari"  [ C:\Users\Fierea Cosmin\Desktop\P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD\Schematics\p1-ps
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_D1.model201   X_D3.model201   
+          IS   56.404000E-30   56.404000E-30 
+           N    2               2            
+          BV    5               5            
+         IBV    5.000000E-06   10.000000E-06 
+          RS    2               2            
+
+
+**** 11/21/24 20:50:00 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Simulari"  [ C:\Users\Fierea Cosmin\Desktop\P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD\Schematics\p1-ps
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               BC846B          BC856B          
+               NPN             PNP             
+       LEVEL    1               1            
+          IS    7.049000E-15  336.700000E-15 
+          BF  279.1           277.7          
+          NF    1               1            
+         VAF   62.37           62.37         
+         IKF     .2201           .1686       
+         ISE   59.160000E-15    1.966000E-12 
+          NE    1.81            2.123        
+          BR    3.816           7.16         
+          NR    1               1            
+         IKR    1.859           9.677        
+         ISC   16.170000E-15  196.000000E-12 
+          NC    2.394           1.815        
+          NK     .6305           .545        
+         ISS    0               0            
+          RE    0               0            
+          RC    1.508           2.891        
+         CJE    9.485000E-12    8.397000E-12 
+         VJE     .5              .5          
+         MJE     .3333           .3865       
+         CJC    7.287000E-12   11.510000E-12 
+         VJC     .5              .5          
+         MJC     .3333           .3626       
+        XCJC    1               1            
+         CJS    0               0            
+         VJS     .75             .75         
+          TF  664.000000E-12  605.900000E-12 
+         XTF  147              23.02         
+         VTF   10              10            
+         ITF    4.664           2.133        
+          TR   10.000000E-09   10.000000E-09 
+         XTB    1.5             1.5          
+          KF    0               0            
+          AF    1               1            
+          CN    2.42            2.2          
+           D     .87             .52         
+
+
+**** 11/21/24 20:50:00 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Simulari"  [ C:\Users\Fierea Cosmin\Desktop\P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD\Schematics\p1-ps
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(   VO)    -.0118  (  INP)    0.0000  (N79492)   12.0000 (N79610)   11.3720     
+
+(N79674)     .6438 (N79760)     .5345 (N79776)    -.0110 (N79928)-99.22E-06     
+
+(N79960)    -.0130 (N79984)  -11.1700 (N79990)  -11.3470 (N80152)    -.5698     
+
+(N80168)    -.0127 (N80392)  -12.0000 (N80402)  -11.8090 (N80408)  -11.8090     
+
+(N82267)    0.0000 (N82862)    0.0000 (N84634)    7.5841 (N88786)   -7.5841     
+
+(N91465)    4.0679 (N99702)   11.9270 (N99981)   11.9240 (N796860)    3.1683    
+
+(N801381)    -.0079                   (N802401)    -.0039                       
+
+(N828860)    0.0000                   (N888061)   -3.1683                       
+
+(N922072)   11.9240                   
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V3         1.180E-06
+    V_V1        -1.644E-02
+    V_V2         0.000E+00
+    V_V6        -1.651E-02
+    V_V8         0.000E+00
+
+    TOTAL POWER DISSIPATION   3.95E-01  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 11/21/24 20:50:00 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Simulari"  [ C:\Users\Fierea Cosmin\Desktop\P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD\Schematics\p1-ps
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .20
+

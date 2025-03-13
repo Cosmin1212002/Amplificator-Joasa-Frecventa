@@ -1,0 +1,74 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : P1.brd                                        )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Thu Dec 12 13:10:10 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < SPTOP >
+     TO FILE < C:/USERS/FIEREA COSMIN/DESKTOP/P1_2024_431D_FIEREA_COSMIN-ANDREI_AAF_N15_ORCAD/SCHEMATICS/allegro/SPTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04724                                  DARK 
+  SQUARE     0.04500                     0.000 NO     DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.03300       0.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.03300      90.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.10000      90.000 NO     DARK 
+  RECTANGLE  0.06900     x 0.04400       0.000 NO     DARK 
+  RECTANGLE  0.06900     x 0.04400      90.000 NO     DARK 
+
+     SPTOP created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        SPTOP created with warnings
+
+ ARTWORK had warnings

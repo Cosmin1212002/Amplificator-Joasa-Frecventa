@@ -1,0 +1,272 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/allegro/P1.brd                                             |
+|                                                    Thu Dec 05 12:09:58 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 D1.C           D3.A           J1.2           
+                                 J2.2           J3.2           J4.2           
+                                 R4.1           R9.1           R14.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N79610       pins ADDED TO this new net
+                                 Q14.1          Q14.3          Q18.1          
+                                 Q19.1          R7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N79674       pins ADDED TO this new net
+                                 Q4.1           Q7.1           Q7.3           
+                                 Q19.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N79760       pins ADDED TO this new net
+                                 Q15.2          Q18.3          Q20.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N79776       pins ADDED TO this new net
+                                 Q4.2           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N79928       pins ADDED TO this new net
+                                 Q15.1          R13.2          R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N79960       pins ADDED TO this new net
+                                 Q7.2           Q16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N79984       pins ADDED TO this new net
+                                 Q9.1           Q9.3           Q10.1          
+                                 Q15.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N79990       pins ADDED TO this new net
+                                 C1.1           C3.1           C4.1           
+                                 Q10.3          Q12.1          Q20.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N80152       pins ADDED TO this new net
+                                 C1.2           C3.2           C4.2           
+                                 Q12.3          Q16.1          Q16.3          
+                                 Q17.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N80168       pins ADDED TO this new net
+                                 Q17.2          R5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N80402       pins ADDED TO this new net
+                                 Q9.2           R10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N80408       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/allegro/P1.brd                                             |
+|                                                    Thu Dec 05 12:09:58 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 Q10.2          R11.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N84634       pins ADDED TO this new net
+                                 R1.1           R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N88786       pins ADDED TO this new net
+                                 R16.1          R17.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N91465       pins ADDED TO this new net
+                                 R7.1           R18.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N99702       pins ADDED TO this new net
+                                 Q14.2          R19.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N99981       pins ADDED TO this new net
+                                 Q18.2          R20.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N796860      pins ADDED TO this new net
+                                 D1.A           R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N801381      pins ADDED TO this new net
+                                 R6.1           R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N802401      pins ADDED TO this new net
+                                 R8.1           R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N888061      pins ADDED TO this new net
+                                 D3.C           R17.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N922072      pins ADDED TO this new net
+                                 Q19.2          R21.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this new net
+                                 J1.1           Q4.3           R1.2           
+                                 R19.2          R20.2          R21.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VEE          pins ADDED TO this new net
+                                 J2.1           Q12.2          Q17.3          
+                                 R10.1          R11.1          R16.2          
+                                 R18.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN          pins ADDED TO this new net
+                                 J3.1           Q20.1          R4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VOUT         pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/allegro/P1.brd                                             |
+|                                                    Thu Dec 05 12:09:58 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J4.1           R3.1           R5.2           
+                                 R6.2           R13.1          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/allegro/P1.brd                                             |
+|                                                    Thu Dec 05 12:09:58 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BC846B_TO236_BC846B
+ BC856B_TO236_BC856B
+ CON2_1210RF_WV_12D_CON2
+ C_SMC0805_10P
+ LED_0_SMD0805_5V,LED,LED
+ R_SMR0805_1K
+ R_SMR0805_9.1K
+ R_SMR0805_10K
+ R_SMR0805_22K
+ R_SMR0805_180K
+ R_SMR0805_1
+ R_SMR0805_51
+ R_SMR0805_100
+ R_SMR0805_330
+ R_SMR0805_510
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/allegro/P1.brd                                             |
+|                                                    Thu Dec 05 12:09:58 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_SMC0805_10P         
+ C3                  C_SMC0805_10P         
+ C4                  C_SMC0805_10P         
+ D1                  LED_0_SMD0805_5V,LED,LED 
+ D3                  LED_0_SMD0805_5V,LED,LED 
+ J1                  CON2_1210RF_WV_12D_CON2 
+ J2                  CON2_1210RF_WV_12D_CON2 
+ J3                  CON2_1210RF_WV_12D_CON2 
+ J4                  CON2_1210RF_WV_12D_CON2 
+ Q4                  BC846B_TO236_BC846B   
+ Q7                  BC846B_TO236_BC846B   
+ Q9                  BC846B_TO236_BC846B   
+ Q10                 BC846B_TO236_BC846B   
+ Q12                 BC846B_TO236_BC846B   
+ Q14                 BC856B_TO236_BC856B   
+ Q15                 BC856B_TO236_BC856B   
+ Q16                 BC856B_TO236_BC856B   
+ Q17                 BC856B_TO236_BC856B   
+ Q18                 BC856B_TO236_BC856B   
+ Q19                 BC856B_TO236_BC856B   
+ Q20                 BC856B_TO236_BC856B   
+ R1                  R_SMR0805_330         
+ R2                  R_SMR0805_330         
+ R3                  R_SMR0805_1           
+ R4                  R_SMR0805_180K        
+ R5                  R_SMR0805_1           
+ R6                  R_SMR0805_51          
+ R7                  R_SMR0805_10K         
+ R8                  R_SMR0805_51          
+ R9                  R_SMR0805_51          
+ R10                 R_SMR0805_510         
+ R11                 R_SMR0805_510         
+ R13                 R_SMR0805_9.1K        
+ R14                 R_SMR0805_1K          
+ R16                 R_SMR0805_330         
+ R17                 R_SMR0805_330         
+ R18                 R_SMR0805_22K         
+ R19                 R_SMR0805_100         
+ R20                 R_SMR0805_100         
+ R21                 R_SMR0805_100         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/allegro/P1.brd                                             |
+|                                                    Thu Dec 05 12:09:58 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ D1.C                           PRIM_FILE      .\pstchip.dat
+ D3.C                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.2                           PRIM_FILE      .\pstchip.dat
+ J4.2                           PRIM_FILE      .\pstchip.dat
+ Q4.2                           PRIM_FILE      .\pstchip.dat
+ Q7.2                           PRIM_FILE      .\pstchip.dat
+ Q9.2                           PRIM_FILE      .\pstchip.dat
+ Q10.2                          PRIM_FILE      .\pstchip.dat
+ Q12.2                          PRIM_FILE      .\pstchip.dat
+ Q14.2                          PRIM_FILE      .\pstchip.dat
+ Q15.2                          PRIM_FILE      .\pstchip.dat
+ Q16.2                          PRIM_FILE      .\pstchip.dat
+ Q17.2                          PRIM_FILE      .\pstchip.dat
+ Q18.2                          PRIM_FILE      .\pstchip.dat
+ Q19.2                          PRIM_FILE      .\pstchip.dat
+ Q20.2                          PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/allegro/P1.brd                                             |
+|                                                    Thu Dec 05 12:09:58 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      92                                        |
+|       Comp definitions added:      15                                        |
+|       Components added      :      40                                        |
+|       Slot property added   :      40                                        |
+|                                                                              |
+|   Total ECO changes reported:     187                                        |
+|------------------------------------------------------------------------------|

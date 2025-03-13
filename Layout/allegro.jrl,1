@@ -1,0 +1,68 @@
+\t (00:03:42) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:03:42)     Journal start - Sun Jan 19 00:11:07 2025
+\t (00:03:42)         Host=DESKTOP-90BRTH7 User=Fierea Cosmin Pid=6484 CPUs=12
+\t (00:03:42) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:03:42) 
+\d (00:03:42) Design opened: C:/Users/Fierea Cosmin/Desktop/P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD/P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD/Layout/P1.brd
+\i (00:03:42) generaledit 
+\i (00:03:55) color192 
+\i (00:03:55) generaledit 
+\i (00:03:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:04:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:04:03) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:04:05) QtSignal CVDLayerTable VertHeader clickedCheckBox 11
+\i (00:04:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:04:08) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:04:08) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:04:16) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:04:16) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 2334.89 281.15
+\i (00:04:17) trapsize 4279
+\i (00:04:18) zoom in 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom in 3806.85 281.16
+\i (00:04:18) trapsize 2139
+\i (00:04:27) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:04:27) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:04:28) zoom in 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom in 345.19 1064.21
+\i (00:04:28) trapsize 1070
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out 111.99 1008.59
+\i (00:04:29) trapsize 2139
+\i (00:04:52) zoom in 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in 668.25 730.46
+\i (00:04:52) trapsize 1070
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out 670.39 694.09
+\i (00:04:53) trapsize 2139
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in 589.09 792.51
+\i (00:04:56) trapsize 1070
+\i (00:04:56) zoom out 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom out 700.34 764.70
+\i (00:04:56) trapsize 2139
+\i (00:06:05) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BO"
+\i (00:06:05) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BO"
+\i (00:06:09) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:06:19) setwindow form.find
+\i (00:06:19) FORM find text NO 
+\i (00:06:20) FORM find text YES 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) color192 
+\i (00:06:22) generaledit 
+\i (00:06:34) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:13:32) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:13:32) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:18:56) exit 
+\e (00:18:56) Do you want to save the changes you made to P1.brd?
+\i (00:18:57) fillin no 
+\t (00:18:57)     Journal end - Sun Jan 19 00:26:22 2025

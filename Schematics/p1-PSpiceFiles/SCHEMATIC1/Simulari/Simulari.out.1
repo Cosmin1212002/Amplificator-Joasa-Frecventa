@@ -1,0 +1,79 @@
+
+**** 11/14/24 23:07:10 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Simulari"  [ D:\P1- V25\p1-PSpiceFiles\SCHEMATIC1\Simulari.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Simulari.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Valentin\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 5m 0 1u 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source P1
+X_D11         0 N806061 LED PARAMS: IS=5.6404e-029 RS=2  BV=5 IBV=10e-6        
++  
+Q_Q35         N79984 N79984 N80402 BC846B 
+V_V7         0 0  AC 1
++SIN 0 0.9 1k 0 0 0
+X_Q47         N79610 N79610 VCC awbbc856bl PARAMS:                             
++                
+R_R38         0 N79928  9.1k TC=0,0 
+R_R40         0 N79776  1 TC=0,0 
+R_R37         0 N79928  1k TC=0,0 
+R_R32         VEE N80402  1k TC=0,0 
+X_Q34         N79990 0 N79760 awbbc856bl PARAMS:                               
++              
+R_R33         VEE N80408  1k TC=0,0 
+X_Q45         N79760 N79610 VCC awbbc856bl PARAMS:                             
++                
+R_R48         0 0  220k TC=0,0 
+R_R41         N80168 0  1 TC=0,0 
+R_R29         N806061 VEE  680 TC=0,0 
+X_Q42         N80152 N80152 N79960 awbbc856bl PARAMS:                          
++                   
+X_Q46         N79674 N79610 VCC awbbc856bl PARAMS:                             
++                
+R_R51         N802401 N801381  51 TC=0,0 
+Q_Q44         N80152 N79990 VEE BC846B 
+Q_Q41         N79674 N79674 N79960 BC846B 
+Q_Q36         N79990 N79984 N80408 BC846B 
+X_D10         N795501 0 LED PARAMS: IS=5.6404e-029 RS=2  BV=5 IBV=5e-6         
+V_V5         VCC 0 12
+C_C5         N79990 N80152  100p  TC=0,0 
+X_Q33         N79984 N79928 N79760 awbbc856bl PARAMS:                          
++                   
+X_Q40         VEE N80152 N80168 awbbc856bl PARAMS:                             
++                
+V_V6         0 VEE 12
+R_R50         N801381 0  51 TC=0,0 
+R_R52         0 N802401  51 TC=0,0 
+Q_Q39         VCC N79674 N79776 BC846B 
+R_R28         N795501 VCC  680 TC=0,0 
+R_R49         VEE N79610  22k TC=0,0 
+
+**** RESUMING Simulari.cir ****
+.END
+
+ERROR(ORPSIM-15143): Voltage source and/or inductor loop involving V_V7. You may break the loop by adding a series resistance
+

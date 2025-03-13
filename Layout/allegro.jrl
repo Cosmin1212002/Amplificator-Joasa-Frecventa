@@ -1,0 +1,135 @@
+\t (00:00:07) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Wed Mar 12 19:07:34 2025
+\t (00:00:07)         Host=DESKTOP-90BRTH7 User=Fierea Cosmin Pid=9328 CPUs=12
+\t (00:00:07) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:08) Design opened: C:/Users/Fierea Cosmin/Desktop/P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD/P1_2024_431D_Fierea_Cosmin-Andrei_AAF_N15_OrCAD/Layout/P1.brd
+\i (00:00:08) trapsize 1996
+\i (00:00:08) trapsize 2042
+\i (00:00:08) trapsize 2131
+\i (00:00:08) trapsize 2233
+\i (00:00:09) generaledit 
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 1311.11 -489.57
+\i (00:01:56) trapsize 1116
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out 1683.97 -252.90
+\i (00:01:57) trapsize 2233
+\i (00:01:58) zoom out 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom out 1683.98 -261.83
+\i (00:01:58) trapsize 4465
+\i (00:02:05) drag_start grid 4854.58 -994.16
+\i (00:02:06) drag_stop 4363.39 -440.45
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 3005.91 -654.79
+\i (00:02:08) trapsize 2233
+\i (00:02:09) prepopup 2063.71 6.09
+\i (00:02:11) pick grid 1965.47 126.66
+\t (00:02:11) last pick:  1975.00 125.00
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out 1849.37 64.14
+\i (00:02:16) trapsize 4465
+\i (00:02:19) prepopup 4412.52 108.79
+\i (00:02:21) pick grid 4814.41 635.71
+\t (00:02:21) last pick:  4825.00 625.00
+\i (00:02:22) roam start
+\i (00:02:22) roam x 16
+\i (00:02:22) roam x 16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam x 16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam x 32
+\i (00:02:23) roam y 16
+\i (00:02:23) roam x -48
+\i (00:02:23) roam y -16
+\i (00:02:23) roam x -80
+\i (00:02:23) roam y -16
+\i (00:02:23) roam x -48
+\i (00:02:23) roam y -16
+\i (00:02:23) roam x -16
+\i (00:02:23) roam x 16
+\i (00:02:23) roam x 16
+\i (00:02:23) roam x 16
+\i (00:02:24) roam x 16
+\i (00:02:24) roam y 16
+\i (00:02:24) roam x -16
+\i (00:02:25) roam x -16
+\i (00:02:26) roam y -16
+\i (00:02:26) roam y -16
+\i (00:02:27) zoom in 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom in 3550.69 779.87
+\i (00:02:27) trapsize 2233
+\i (00:02:27) roam x 32
+\i (00:02:27) roam x 16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x 48
+\i (00:02:27) roam x 80
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x 32
+\i (00:02:27) roam y -16
+\i (00:02:28) roam x -32
+\i (00:02:28) roam x -48
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x -64
+\i (00:02:28) roam x -48
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -32
+\i (00:02:28) roam x -48
+\i (00:02:28) roam x -80
+\i (00:02:28) roam x -96
+\i (00:02:28) roam x -64
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x -32
+\i (00:02:28) roam y 16
+\i (00:02:28) roam y 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam y 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam y 16
+\i (00:02:29) roam x 32
+\i (00:02:29) roam x 16
+\i (00:02:29) roam y 16
+\i (00:02:29) roam x -16
+\i (00:02:29) roam x -16
+\i (00:02:30) zoom in 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom in 2193.20 645.91
+\i (00:02:30) trapsize 1116
+\i (00:02:31) roam y -16
+\i (00:02:31) roam x -16
+\i (00:02:31) roam y -16
+\i (00:02:31) roam x -48
+\i (00:02:31) roam y -32
+\i (00:02:31) roam x -80
+\i (00:02:31) roam y -32
+\i (00:02:31) roam x -160
+\i (00:02:31) roam y -32
+\i (00:02:31) roam x -144
+\i (00:02:31) roam y -32
+\i (00:02:31) roam x -48
+\i (00:02:31) roam y -16
+\i (00:02:31) roam x 32
+\i (00:02:31) roam y 16
+\i (00:02:31) roam x 16
+\i (00:02:31) roam y 16
+\i (00:02:31) roam x 16
+\i (00:02:31) roam y 16
+\i (00:02:32) roam y 16
+\i (00:02:32) roam y 16
+\i (00:02:32) roam end
+\i (00:03:24) zoom in 1 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom in 1643.95 929.47
+\i (00:03:24) trapsize 558
+\i (00:06:47) exit 
+\t (00:06:48)     Journal end - Wed Mar 12 19:14:15 2025

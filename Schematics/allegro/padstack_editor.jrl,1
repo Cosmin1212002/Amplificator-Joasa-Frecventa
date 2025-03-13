@@ -1,0 +1,31 @@
+\t (00:00:00) padstack_editor 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Dec 05 16:22:11 2024
+\t (00:00:00)         Host=DESKTOP-90BRTH7 User=Fierea Cosmin Pid=19616 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession Fierea Cosmin -file ./#Taaaaan10592.tmp -pname SM_LIB_PAD88 -data C:/Users/FIEREA~1/AppData/Local/Temp/#Taaaaap10592.tmp
+\t (00:00:00) 
+\d (00:00:07) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Anti Pad"
+\d (00:00:07) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Anti Pad" 0 4
+\d (00:00:13) QtSignal GuidedDesignLayersTab PadWidth editingFinished 70.00
+\d (00:00:14) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Anti Pad" 0 4
+\d (00:00:14) QtSignal GuidedDesignLayersTab LayersTable cellDoubleClicked 0 "Anti Pad" 0 4
+\d (00:00:14) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Anti Pad" 0 4
+\d (00:00:15) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:15) QtSignal 1
+\d (00:00:15) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
+\d (00:00:15) QtSignal 
+\d (00:00:15) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Thermal Pad"
+\d (00:00:16) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Thermal Pad" 0 3
+\d (00:00:16) QtSignal GuidedDesignLayersTab LayersTable cellDoubleClicked 0 "Thermal Pad" 0 3
+\d (00:00:16) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Thermal Pad" 0 3
+\d (00:00:16) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:16) QtSignal 1
+\d (00:00:16) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:00:16) QtSignal 
+\d (00:00:22) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:29) QtSignal GuidedMaskLayersTab PadWidth editingFinished 60.00
+\d (00:00:29) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:00:29) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:33) QtSignal GuidedMaskLayersTab PadWidth editingFinished 45.00
+\d (00:00:33) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:39) QtSignal MainWindow UpdateToDesignExit triggered
+\t (00:00:39)     Journal end - Thu Dec 05 16:22:51 2024

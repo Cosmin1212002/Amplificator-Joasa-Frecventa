@@ -1,0 +1,16 @@
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun Dec 15 16:22:17 2024
+\t (00:00:02)         Host=DESKTOP-90BRTH7 User=Fierea Cosmin Pid=19240 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Starting new design...
+\i (00:00:05) trapsize 669
+\i (00:00:05) trapsize 684
+\i (00:00:05) trapsize 1138
+\i (00:00:05) trapsize 1142
+\i (00:00:06) etchedit 
+\i (00:00:10) color192 
+\i (00:00:10) etchedit 
+\i (00:00:14) exit 
+\t (00:00:14)     Journal end - Sun Dec 15 16:22:28 2024
